@@ -10,6 +10,8 @@
 nbproject
 build
 cache
+bin
+out
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
